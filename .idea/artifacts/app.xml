@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="ear" name="app">
+    <output-path>$PROJECT_DIR$/out/artifacts/app</output-path>
+    <root id="archive" name="app.ear">
+      <element id="artifact" artifact-name="web" />
+      <element id="directory" name="lib" />
+      <element id="artifact" artifact-name="ejb" />
+    </root>
+  </artifact>
+</component>
